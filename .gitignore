@@ -2,6 +2,7 @@
 *~
 img/
 log/
+users/
 *.swp
 *.txt
 *.csv
