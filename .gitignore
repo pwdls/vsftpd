@@ -2,7 +2,6 @@
 *~
 img/
 log/
-users/
 *.swp
 *.txt
 *.csv
@@ -12,3 +11,4 @@ users/
 *--*
 !.gitignore
 robots.php
+!redme.txt
